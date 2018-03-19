@@ -1,0 +1,35 @@
+header
+{
+	background-color: yellow;
+}
+.inicio{
+	color: green;
+}
+img {
+	width: 900px;
+	height: 900px;
+	border-style: solid;
+	color:rgba(0,0,255,0.5);
+}
+
+		.sobre {
+			color: purple;
+			padding: 50px;
+			border-width: 50px;
+			background-color: #0080B4;
+
+}
+
+	img {
+		width: 900px;
+		height: 900px;
+		border-style: solid;
+		color: rgba(0,0,255,0.5);
+	}
+
+.contato {
+	color: #0A011D;
+	padding: 50px;
+	border-width: 50px;
+	background-color: #7D7D7D;
+}

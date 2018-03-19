@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+	background-color: blue;
+}
+
+ul{
+display: flex;
+justify-content: center;
+}
+
+li{
+	margin: 50px;
+	list-style: none;
+}
+
+#sobrinho{
+	background-color: #E9D2EF;
+}
+
+#teste{
+    background-color: #9781b7;
+}
+
+#jeito{
+
+   background-color: #BBDB88;
+}
+
+.atenção{
+	background-color: #FAF519;
+}
